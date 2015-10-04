@@ -1,9 +1,10 @@
 # week07-UI
 # LayoutProgramatically
 Sample code dynamic creation of a UI 
-# SampleLayoutActivity
+# UI-fromText
+## SampleLayoutActivity
 sample layouts from text book
-# ViewSampleActivity   
+## ViewSampleActivity   
 sample views from text book
-# UI*
-UI examples from Alan Porter's android course
+# UI-aporter
+UI examples from Alan Porter
