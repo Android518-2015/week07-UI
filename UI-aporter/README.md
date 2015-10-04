@@ -1,1 +1,3 @@
-A slew of UI examples from other sources.
+# UI*
+UI examples from Alan Porter
+https://github.com/aporter/coursera-android
